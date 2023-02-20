@@ -1,1 +1,1 @@
-npm install nanoid@3.x.x
+Dicoding Acedemy Submission Backend Training for Beginner
